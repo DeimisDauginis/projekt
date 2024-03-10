@@ -3,3 +3,4 @@ https://play.unity.com/mg/other/webgl-builds-394774
  
 ![yes](https://github.com/DeimisDauginis/projekt/assets/146199999/96313142-e3d4-490a-a1b8-9bf295076195)
 ![Capture - Copy](https://github.com/DeimisDauginis/projekt/assets/146199999/51494b14-a724-443d-b966-c324a0bb6a9f)
+![yess](https://github.com/DeimisDauginis/projekt/assets/146199999/9ed01da9-9aeb-4389-b1b7-ebe653e1d18b)
